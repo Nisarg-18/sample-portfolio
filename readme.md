@@ -9,7 +9,7 @@ A sample portfolio home page made using pure HTML and CSS
 - Icons
 
 ## Time Taken for Completion
-- 5 hours
+- 3 hours
 
 ### Checkout the Project here : [portfoliodeveloper](https://portfoliodeveloper.netlify.app/)
 
