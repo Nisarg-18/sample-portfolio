@@ -12,7 +12,7 @@ A sample portfolio home page made using pure HTML and CSS
 ## Time Taken for Completion
 - 5 hours
 
-<!-- ### Checkout the Project here : [danceclub](https://danceclub.netlify.app/) -->
+### Checkout the Project here : [portfoliodeveloper](https://portfoliodeveloper.netlify.app/)
 
 ## Output
 ![output](output.png)
