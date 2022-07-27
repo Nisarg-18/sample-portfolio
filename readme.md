@@ -6,7 +6,6 @@ A sample portfolio home page made using pure HTML and CSS
 ## What have I learnt from this project?
 - Flexbox
 - Positioning
-- Font Styling
 - Icons
 
 ## Time Taken for Completion
