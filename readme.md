@@ -7,15 +7,20 @@ A sample portfolio home page made using pure HTML and CSS
 - Flexbox
 - Positioning
 - Icons
+- Media Queries in CSS
 
 ## Time Taken for Completion
-- 3 hours
+- 4 hours
 
 ### Checkout the Project here : [portfoliodeveloper](https://portfoliodeveloper.netlify.app/)
 
 ## Output
+
+## Desktop View
 ![output](output.png)
 
+## Mobile View
+![mobile](mobile.png)
 
 Made with ❤️ by Nisarg Shah
 
